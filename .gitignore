@@ -1,0 +1,10 @@
+
+bin
+Debug
+doc
+examples
+sfml-audio-2.dll
+sfml-audio-d-2.dll
+sfml-network-2.dll
+sfml-network-d-2.dll
+x64
